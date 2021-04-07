@@ -267,7 +267,7 @@ class Game:
 		return '\n'.join(grid)
 
 '''	START PROGRAM'''	
-bot.run("ODE3MDY3Nzg3OTczMTY1MDU2.YEEHrQ.6YomBGyqUikBQEIhnI-hIYX3fPQ")
+bot.run("")
 
 
 
